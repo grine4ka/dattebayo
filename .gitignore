@@ -185,3 +185,6 @@ cython_debug/
 # PyCharm
 .idea
 # End of https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks,python
+
+# ignore large files
+nfl_tutorial/Adding Players onto the Field/data/week_data.csv
