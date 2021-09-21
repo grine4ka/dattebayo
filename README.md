@@ -1,8 +1,6 @@
-# dattebayo
+Learning Python and Data Science with Football and Sports Analytics, dattebayo
 
-Learning python and Data Science with EPL Fantasy Football and Sports Analytics, dattebayo
-
-## Data
+### Data
 
 Data got from StatsBomb open-data repository on [GitHub](https://github.com/statsbomb/open-data)
 
