@@ -188,3 +188,4 @@ cython_debug/
 
 # ignore large files
 NFL Tutorial/Adding Players onto the Field/data/week_data.csv
+KMeans/all_data.csv
